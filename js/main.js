@@ -10,7 +10,7 @@ var css1 =
     transition: all 1s;
 }
 html {
-    background: #eee;
+    background: #333;
 }
 #code {
     border: 1px solid #aaa;
